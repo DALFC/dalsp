@@ -1,0 +1,3 @@
+t:data/citymodle/fuwuyuannan/fuwuyuannan.atlas:data/citymodle/fuwuyuannan/fuwuyuannan-8ecda4e032858b2d6f588072fa9453b0.atlas:14189:application/unknown:1
+t:data/citymodle/fuwuyuannan/fuwuyuannan.json:data/citymodle/fuwuyuannan/fuwuyuannan-1fa1480820edbc1b2bcc946a41c410e4.json:409267:application/unknown:1
+i:data/citymodle/fuwuyuannan/fuwuyuannan.png:data/citymodle/fuwuyuannan/fuwuyuannan-998c266131a198495e2041bd7aef9295.png:802334:image/png:1

@@ -1,0 +1,4 @@
+t:data/hero/paintshow_10602/paintshow_10602.atlas:data/hero/paintshow_10602/paintshow_10602-ebfcfb440cd18baa0658aa814a10a326.atlas:4487:application/unknown:1
+i:data/hero/paintshow_10602/paintshow_10602.png:data/hero/paintshow_10602/paintshow_10602-5d91861c551cb3013ac64056b57e9fca.png:1205283:image/png:1
+b:data/hero/paintshow_10602/paintshow_10602.skel:data/hero/paintshow_10602/paintshow_10602-2ce74fb4977516eb61683e4b33533632.skel:163161:application/unknown:1
+i:data/hero/paintshow_10602/paintshow_106022.png:data/hero/paintshow_10602/paintshow_106022-dc188933957cc2059e44259cf3de5a19.png:788028:image/png:1
