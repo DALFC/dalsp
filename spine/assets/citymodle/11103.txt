@@ -1,3 +1,0 @@
-t:data/citymodle/11103/11103.atlas:data/citymodle/11103/11103-3eaaba7f495cd91f93afb88865f3ce20.atlas:4825:application/unknown:1
-t:data/citymodle/11103/11103.json:data/citymodle/11103/11103-e92442a1894de61bf701d6fa25f463f8.json:240667:application/unknown:1
-i:data/citymodle/11103/11103.png:data/citymodle/11103/11103-91cb05fed203d668b07206554819ab5a.png:688410:image/png:1

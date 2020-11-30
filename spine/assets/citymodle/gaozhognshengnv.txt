@@ -1,3 +1,3 @@
 t:data/citymodle/gaozhognshengnv/gaozhognshengnv.atlas:data/citymodle/gaozhognshengnv/gaozhognshengnv-488af10409e555de35b94e403f69830d.atlas:15473:application/unknown:1
 t:data/citymodle/gaozhognshengnv/gaozhognshengnv.json:data/citymodle/gaozhognshengnv/gaozhognshengnv-acfbf8d8c9a77440395930eaf5d31a68.json:413892:application/unknown:1
-i:data/citymodle/gaozhognshengnv/gaozhognshengnv.png:data/citymodle/gaozhognshengnv/gaozhognshengnv-31db98885c5a6d373412edc2f763c903.png:938785:image/png:1
+i:data/citymodle/gaozhognshengnv/gaozhognshengnv.png:data/citymodle/gaozhognshengnv/gaozhognshengnv-7d909c5e43556c47269bbde4dd7bafa6.png:586662:image/png:1

@@ -5,10 +5,78 @@
               <meta http-equiv="content-type" content="text/html; charset=UTF-8">
               <meta id="gameViewport" name="viewport" content="width=device-width initial-scale=1">
               <link href="styles.css" rel="stylesheet" type="text/css">
+              <script type="text/javascript" src="app.js"></script>
+              <script type="text/javascript" src="assets/citymodle.js"></script>
+              <script type="text/javascript" src="assets/hero.js"></script>
+              <script type="text/javascript" src="assets/weapon.js"></script>
        </head>
 
        <body>
-              <div align="center" id="embed-html"></div>
+              <div id="settings" class="settings">
+                <a href="javascript:void(0)" class="closebtn" onclick="closeView()">&times;</a>
+                <div class="content">
+                  <div class="modle" style="">
+                    <label>Model Type:</label>
+                    <label class="citymodle">
+                      <input type="radio" onchange="loadList();" name="modle" value="citymodle">Chibi
+                    </label>
+                    <label class="citymodle">
+                      <input type="radio" onchange="loadList();" name="modle" value="hero">Chara
+                    </label>
+                    <label class="citymodle">
+                      <input type="radio" onchange="loadList();" name="modle" value="weapon">Weapon
+                    </label>
+                  </div>
+                  <div class="list">
+                    <label>Select Model:</label>
+                    <select id="selectmodle" onchange="loadBundle();">
+                      <option value="none">None</option>
+                    </select>
+                  </div>
+                  <div class="zoom">
+                    <label>Zoom:</label>
+                    <input type="range" min="0.01" max="100" value="1" class="slider" id="zoom">
+                  </div>
+                  <div class="flip">
+                    <label>Flip:</label>
+                    <label class="flip">
+                      <input type="checkbox" class="flip" name="flip">X
+                    </label>
+                    <label class="flip">
+                      <input type="checkbox" class="flip" name="flip">Y
+                    </label>
+                  </div>
+                  <div class="debug">
+                    <label>Debug:</label>
+                    <label class="debug">
+                      <input type="checkbox" class="debug" name="bones">Bones
+                    </label>
+                    <label class="debug">
+                      <input type="checkbox" class="debug" name="regions">Regions
+                    </label>
+                    <label class="debug">
+                      <input type="checkbox" class="debug" name="bounds">Bounds
+                    </label>
+                    <br>
+                    <label class="debug">
+                      <input type="checkbox" class="debug" name="meshhull">Mesh Hull
+                    </label>
+                    <label class="debug">
+                      <input type="checkbox" class="debug" name="meshtriangles">Mesh Triangles
+                    </label>
+                  </div>
+                  <div class="PMA">
+                    <label>Alpha:</label>
+                    <label class="PMA">
+                      <input type="checkbox" class="PMA" name="PMA">Premultiplied
+                    </label>
+                  </div>
+                </div>
+              </div>
+              <div class="main">
+                <a href="javascript:void(0)" class="openbtn" onclick="openView()">⌘</a>
+                <div align="center" id="embed-html" class="canvas">
+              </div>
               <script type="text/javascript" src="html/html.nocache.js"></script>
        </body>
 

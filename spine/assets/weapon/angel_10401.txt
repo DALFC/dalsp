@@ -1,3 +1,0 @@
-t:data/weapon/angel_10401/angel_10401.atlas:data/weapon/angel_10401/angel_10401-fe62d1a473daab06b5eff32755d01ce1.atlas:3081:application/unknown:1
-i:data/weapon/angel_10401/angel_10401.png:data/weapon/angel_10401/angel_10401-f855507ffcbc5332bdf1c5a2a31478ec.png:1061380:image/png:1
-b:data/weapon/angel_10401/angel_10401.skel:data/weapon/angel_10401/angel_10401-7a773cb7e6fd4a9e2e09d50ab9ef7c6d.skel:14018:application/unknown:1

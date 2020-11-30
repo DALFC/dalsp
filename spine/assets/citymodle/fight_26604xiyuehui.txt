@@ -1,3 +1,0 @@
-t:data/citymodle/fight_26604xiyuehui/fight_26604xiyuehui.atlas:data/citymodle/fight_26604xiyuehui/fight_26604xiyuehui-766e804640ec99826404b1ac54dc5e93.atlas:4102:application/unknown:1
-t:data/citymodle/fight_26604xiyuehui/fight_26604xiyuehui.json:data/citymodle/fight_26604xiyuehui/fight_26604xiyuehui-5d5c24922620c875a4bad733a66a581e.json:547504:application/unknown:1
-i:data/citymodle/fight_26604xiyuehui/fight_26604xiyuehui.png:data/citymodle/fight_26604xiyuehui/fight_26604xiyuehui-b2eca899147982bc2a29c5ab8a348f7a.png:184992:image/png:1

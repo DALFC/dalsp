@@ -1,3 +1,3 @@
 t:data/citymodle/wenhao/wenhao.atlas:data/citymodle/wenhao/wenhao-6c0d693412f48c4ca54c75a71ebc87c4.atlas:182:application/unknown:1
 t:data/citymodle/wenhao/wenhao.json:data/citymodle/wenhao/wenhao-a0c8808af8928d0bd26deb2cb75efd41.json:4814:application/unknown:1
-i:data/citymodle/wenhao/wenhao.png:data/citymodle/wenhao/wenhao-0cc41256a4c048089dfb7abc686d9246.png:8254:image/png:1
+i:data/citymodle/wenhao/wenhao.png:data/citymodle/wenhao/wenhao-401597898d7aaf4206f5cf4243574135.png:6469:image/png:1

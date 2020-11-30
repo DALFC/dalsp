@@ -1,0 +1,3 @@
+t:data/citymodle/nianshou-chun/fight_26604chunyuehui.atlas:data/citymodle/nianshou-chun/fight_26604chunyuehui-bc5f716aafe72e5e214520f71dee60d3.atlas:4101:application/unknown:1
+t:data/citymodle/nianshou-chun/fight_26604chunyuehui.json:data/citymodle/nianshou-chun/fight_26604chunyuehui-9f921097a98fdcf48c4eba7325105d12.json:548398:application/unknown:1
+i:data/citymodle/nianshou-chun/fight_26604chunyuehui.png:data/citymodle/nianshou-chun/fight_26604chunyuehui-16b712d55ec7a0b079efdb8154cc83c6.png:125622:image/png:1

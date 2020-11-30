@@ -1,0 +1,5 @@
+spine/assets/*.php
+spine/html/
+spine/index.html
+spine/style.css
+spine/app.js

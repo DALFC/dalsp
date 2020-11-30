@@ -16,3 +16,87 @@ body
     user-select: none;
 }
 
+.main
+{
+  position: relative;
+}
+.openbtn
+{
+  padding: 20px;
+  color: white;
+  font-size: 50px;
+  text-decoration: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.content
+{
+  color:white;
+  padding: 40px;
+  font-size: 20px;
+}
+select
+{
+  right: 5px;
+  vertical-align: top;
+  border: 0px;
+  flex-grow: 100;
+}
+.content div
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  white-space: nowrap;
+  align-items: center;
+}
+.settings {
+  height: 100%; 
+  width: 0; 
+  position: fixed; 
+  display: block;
+  z-index: 3; /* Just in case */
+  top: 0;
+  left: 0;
+  background-color: #27313e; 
+  overflow-x: hidden; 
+  /*padding-top: 10px; */
+  transition: 0.5s; 
+}
+
+.settings a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 30px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.settings a:hover {
+  color: #f1f1f1;
+}
+
+.settings .closebtn {
+  padding: 0px;
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 50px;
+  margin-left: 50px;
+}
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .settings
+  {
+    padding-top: 15px;
+  }
+  .settings a
+  {
+    font-size: 30px;
+  }
+  .content
+  {
+    font-size: 10px;
+  }
+}
