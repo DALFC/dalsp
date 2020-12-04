@@ -1,85 +1,171 @@
 <!doctype html>
 <html>
        <head>
-              <title>DALSP Spine Viewer</title>
-              <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-              <meta id="gameViewport" name="viewport" content="width=device-width initial-scale=1">
-              <link href="styles.css" rel="stylesheet" type="text/css">
-              <script type="text/javascript" src="app.js"></script>
-              <script type="text/javascript" src="assets/citymodle.js"></script>
-              <script type="text/javascript" src="assets/hero.js"></script>
-              <script type="text/javascript" src="assets/weapon.js"></script>
+            <title>DALSP Spine Viewer</title>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+            <meta id="gameViewport" name="viewport" content="width=device-width initial-scale=1">
+            <link href="styles.css" rel="stylesheet" type="text/css">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/themes/nano.min.css">
+            <!-- <link href="grid.css" rel="stylesheet" type="text/css"> -->
+            <script src="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/pickr.min.js"></script>
+            <script type="text/javascript" src="assets/citymodle.js"></script>
+            <script type="text/javascript" src="assets/hero.js"></script>
+            <script type="text/javascript" src="assets/weapon.js"></script>
+            <script type="text/javascript">
+            	function updatePosition(x, y)
+            	{
+            	  document.querySelector('input[name="positionX"]').value = x.toFixed(0);
+            	  document.querySelector('input[name="positionY"]').value = y.toFixed(0);
+            	}
+            	function updateZoom(zoom)
+            	{
+            	  document.querySelector('input[name="zoom"]').value = zoom * 10;
+            	}
+            	function updateFPS(FPS)
+            	{
+            	}
+            	function updateTime(time)
+            	{
+            	  document.querySelector('progress[id="time"]').value = time * 100;
+            	}
+            </script>
        </head>
 
        <body>
-              <div id="settings" class="settings">
+            <div id="settings" class="settings">
                 <a href="javascript:void(0)" class="closebtn" onclick="closeView()">&times;</a>
                 <div class="content">
-                  <div class="modle" style="">
-                    <label>Model Type:</label>
-                    <label class="citymodle">
-                      <input type="radio" onchange="loadList();" name="modle" value="citymodle">Chibi
-                    </label>
-                    <label class="citymodle">
-                      <input type="radio" onchange="loadList();" name="modle" value="hero">Chara
-                    </label>
-                    <label class="citymodle">
-                      <input type="radio" onchange="loadList();" name="modle" value="weapon">Weapon
-                    </label>
-                  </div>
-                  <div class="list">
-                    <label>Select Model:</label>
-                    <select id="selectmodle" onchange="loadBundle();">
-                      <option value="none">None</option>
-                    </select>
-                  </div>
-                  <div class="zoom">
-                    <label>Zoom:</label>
-                    <input type="range" min="0.01" max="100" value="1" class="slider" id="zoom">
-                  </div>
-                  <div class="flip">
-                    <label>Flip:</label>
-                    <label class="flip">
-                      <input type="checkbox" class="flip" name="flip">X
-                    </label>
-                    <label class="flip">
-                      <input type="checkbox" class="flip" name="flip">Y
-                    </label>
-                  </div>
-                  <div class="debug">
-                    <label>Debug:</label>
-                    <label class="debug">
-                      <input type="checkbox" class="debug" name="bones">Bones
-                    </label>
-                    <label class="debug">
-                      <input type="checkbox" class="debug" name="regions">Regions
-                    </label>
-                    <label class="debug">
-                      <input type="checkbox" class="debug" name="bounds">Bounds
-                    </label>
-                    <br>
-                    <label class="debug">
-                      <input type="checkbox" class="debug" name="meshhull">Mesh Hull
-                    </label>
-                    <label class="debug">
-                      <input type="checkbox" class="debug" name="meshtriangles">Mesh Triangles
-                    </label>
-                  </div>
-                  <div class="PMA">
-                    <label>Alpha:</label>
-                    <label class="PMA">
-                      <input type="checkbox" class="PMA" name="PMA">Premultiplied
-                    </label>
-                  </div>
-                </div>
-              </div>
-              <div class="main">
+	                <div class="modle">
+	                    <label>Model Type:</label>   
+			                <label class="citymodle">
+			                  	<input type="radio" onchange="loadList();" name="modle" value="citymodle">Chibi
+			                </label>          	
+		                    <label class="citymodle">
+		                      	<input type="radio" onchange="loadList();" name="modle" value="hero">Chara
+		                    </label>
+		                    <label class="citymodle">
+		                      	<input type="radio" onchange="loadList();" name="modle" value="weapon">Weapon
+		                    </label>  	
+	                </div>
+	                <div class="list">
+	                    <label>Select Model:</label>
+	                    <select id="selectmodle" onchange="loadBundle();">
+	                      	<option value="none">None</option>
+	                    </select>
+	                </div>
+	                <div class="user">
+	                	<label>Preferences:</label>
+	                	<input type="button" onclick="resetSkel()" name="resetSkel" value="Reset Skeleton">
+	                	<input type="button" onclick="resetUser()" name="resetUser" value="Reset User">
+	                </div>
+	                <div class="zoom">
+	                    <label>Zoom:
+	                    	Delta: <input type="number" onchange="setZoomDelta();" name="zoomDelta" size="2" maxlength="2" value="0.25">
+	                    	<input type="range" onchange="setZoom()" style=" width: 50%;" min="0.01" max="100" value="10" class="slider" name="zoom">
+	                    </label>
+	                </div>
+	                <div class="Transform">
+	                    <label>Transform:</label>
+	                    <label class="flip">
+	                      	<input type="checkbox" onchange="DALFC.skeleton.flipX(document.querySelectorAll('input[name=flipX]')[0].checked);" class="flip" name="flipX">Flip X
+	                    </label>
+	                    <label class="flip">
+	                      	<input type="checkbox" onchange="DALFC.skeleton.flipY(document.querySelectorAll('input[name=flipY]')[0].checked);" class="flip" name="flipY">Flip Y
+	                    </label>
+	                    <label class="scale">
+	                      	<input type="number" onchange="setScale();" name="scale" size="2" maxlength="2" value="1">Scale
+	                    </label>
+	                </div>
+	                <div class="Position">
+	                	<label>Position:</label>
+	                	<label class="positionX">
+	                      	<input type="number" onchange="setPosition()" name="positionX" size="5" maxlength="5">X
+	                    </label>
+	                    <label class="positionY">
+	                      	<input type="number" onchange="setPosition()" name="positionY" size="5" maxlength="5">Y
+	                    </label>
+	                </div>
+	                <div class="debug">
+	                    <label>Debug:</label>
+	                    <label class="debug">
+	                        <input type="checkbox" onchange="DALFC.debug.setBones(document.querySelectorAll('input[name=bones]')[0].checked);" class="debug" name="bones">Bones
+	                    </label>
+	                    <label class="debug">
+	                        <input type="checkbox" onchange="DALFC.debug.setRegionAttachments(document.querySelectorAll('input[name=regions]')[0].checked);" class="debug" name="regions">Regions
+	                    </label>
+	                    <label class="debug">
+	                        <input type="checkbox" onchange="DALFC.debug.setBoundingBoxes(document.querySelectorAll('input[name=bounds]')[0].checked);" class="debug" name="bounds">Bounds
+	                    </label>
+	                    <br>
+	                    <label class="debug">
+	                      	<input type="checkbox" onchange="DALFC.debug.setMeshHull(document.querySelectorAll('input[name=meshhull]')[0].checked);" class="debug" name="meshhull">Mesh Hull
+	                    </label>
+	                    <label class="debug">
+	                      	<input type="checkbox" onchange="DALFC.debug.setMeshTriangles(document.querySelectorAll('input[name=meshtriangles]')[0].checked);" class="debug" name="meshtriangles">Mesh Triangles
+	                    </label>
+	                </div>
+	                <div class="alpha">
+	                    <label>Alpha:</label>
+	                    <label class="PMA">
+	                      	<input type="checkbox" onchange="DALFC.renderer.setPremultipliedAlpha(document.querySelectorAll('input[name=PMA]')[0].checked);" class="PMA" name="PMA">Premultiplied
+	                    </label>
+	                    <div class="color"></div>
+	                </div>
+	                <div class="skin" onfocus="skinList()" onclick="skinList();">
+	                	<label>Skin:</label>
+	                	<select id="skin" onchange="setSkin()"></select>
+	                </div>
+	                <div class="setup">
+	                	<label>Setup:</label>
+	                	<input type="button" onclick="DALFC.skeleton.setBonesToSetupPose()" name="setupBones" value="Bones">
+	                	<input type="button" onclick="DALFC.skeleton.setSlotsToSetupPose()" name="setupSlots" value="Slots">
+	                	<input type="button" onclick="DALFC.skeleton.setToSetupPose()" name="setupBoth" value="Both">	                	
+	                </div>
+	                <div class="mix">
+	                	<label>Mix:</label>
+	                	<label>
+	                		<input type="range" onchange="setMix();" name="mix" value="0" min="0" max="20">
+	                	</label>
+	                	<label id="MixValue">0.0</label>
+	                	<input type="button" onclick="resetMix()" name="resetSpeed" value="Reset">
+	                </div>
+	                <div class="speed">
+	                	<label>Speed:</label>
+	                	<label>
+	                		<input type="range" onchange="setSpeed();" name="speed" value="10" min="0" max="100">
+	                	</label>
+	                	<label id="SpeedValue">1.0</label>
+	                	<input type="button" onclick="resetSpeed()" name="resetSpeed" value="Reset">
+	                </div>	                
+	                <div class="playback">
+	                	<label>Playback:</label>
+	                	<label>
+	                		<input type="checkbox" onchange="DALFC.animation.setLoop(document.querySelectorAll('input[name=loop]')[0].checked);" class="loop" name="loop" checked>Loop
+	                	</label>
+	                	<label>
+	                		<input type="checkbox" onchange="DALFC.renderer.pause(document.querySelectorAll('input[name=pause]')[0].checked);" class="pause" name="pause">Pause
+	                	</label>
+	                </div>
+	                <div class="animation" onfocus="animationList()" onclick="animationList();">
+	                	<label>Animation:</label>
+	                	<select id="animation" onchange="setAnimation()">
+	                	</select>
+	                </div>
+	                <div class="time">
+	                	<progress id="time" max="100">
+	                </div>
+	                <div class="utils">
+	                	<input type="button" onclick="screenshot()" name="screenshot" value="Screenshot">
+	                </div>
+	            </div>	            
+            </div>
+            <div class="main">
                 <a href="javascript:void(0)" class="openbtn" onclick="openView()">⌘</a>
                 <div align="center" id="embed-html" class="canvas">
-              </div>
+            </div>
               <script type="text/javascript" src="html/html.nocache.js"></script>
        </body>
-
+       <script type="text/javascript" src="app.js"></script>
        <script>
               function handleMouseDown(evt) {
                 evt.preventDefault();

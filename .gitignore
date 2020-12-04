@@ -1,5 +1,4 @@
 spine/assets/*.php
-spine/html/
-spine/index.html
-spine/style.css
-spine/app.js
+spine/old.html
+spine/old2.html
+spine/old3.html

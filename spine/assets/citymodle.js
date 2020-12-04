@@ -63,6 +63,7 @@ var citymodleList = {
     "Mayuri (Swimsuit)": "citymodle/city_11208",
     "Mayuri (Xmas)": "citymodle/city_11209",
     "Mayuri (Miko)": "citymodle/city_11211",
+    "Mayuri (Window)": "citymodle/city_11213",
     "Adult Natsumi (Astral Dress)": "citymodle/city_11301",
     "Natsumi (Astral Dress)": "citymodle/city_11303",
     "Natsumi (smth)": "citymodle/city_11307",

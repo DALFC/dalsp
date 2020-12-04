@@ -32,52 +32,86 @@ body
 }
 .content
 {
+  margin-right: 20px;
+  margin-left: 20px;
   color:white;
-  padding: 40px;
-  font-size: 20px;
+  padding-top: 40px;
+  font-size: large;
+}
+input[type=number]{
+    width: 50px;
+}
+input[type=button]{
+    background-color: #3A4655;
+    border-radius: 4px;
+    color: white;
+}
+input[type=button]:hover
+{
+  background-color: #4B5664;
+}
+input[type=button]:active
+{
+  background-color: #526E91;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+progress
+{
+  width: 100%;
 }
 select
 {
-  right: 5px;
+  max-width: 100%;
   vertical-align: top;
   border: 0px;
-  flex-grow: 100;
 }
+*:focus
+{
+  border: none;
+  outline: none;
+}
+
 .content div
 {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  white-space: nowrap;
+  padding-top: 7px;
+  padding-bottom: 7px;
   align-items: center;
+}
+input
+{
+  border:none;
+  border-bottom-width: 0px!important;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 .settings {
   height: 100%; 
-  width: 0; 
+  width: 400px; 
   position: fixed; 
   display: block;
   z-index: 3; /* Just in case */
   top: 0;
-  left: 0;
+  left: -400px;
   background-color: #27313e; 
   overflow-x: hidden; 
   /*padding-top: 10px; */
   transition: 0.5s; 
 }
 
-.settings a {
-  padding: 8px 8px 8px 32px;
+.settings .closebtn {
   text-decoration: none;
-  font-size: 30px;
   color: #818181;
   display: block;
   transition: 0.3s;
-}
-
-.settings a:hover {
-  color: #f1f1f1;
-}
-
-.settings .closebtn {
   padding: 0px;
   position: absolute;
   top: 0;
@@ -85,6 +119,15 @@ select
   font-size: 50px;
   margin-left: 50px;
 }
+.list
+{
+  width: 100%;
+  right: 10px;
+}
+.settings a:hover {
+  color: #f1f1f1;
+}
+
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
   .settings
