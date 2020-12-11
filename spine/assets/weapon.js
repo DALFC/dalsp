@@ -43,5 +43,6 @@ var weaponList = {
     "Noisy Sphere (Maria)": "weapon/angel_1124011",
     "Noisy Sphere (Marina)": "weapon/angel_1125011",
     "Lucifugus": "weapon/angel_1127011",
+    "Lailaps": "weapon/angel_1128011",
     "Ais's Weapon": "weapon/angel_1131011",
 };
