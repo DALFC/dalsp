@@ -1,6 +1,8 @@
 # 3.8
 The game's spine files (from `hero` and `weapon` folder) converted from 2.1.27 to 3.8 thanks to [spine-gif](https://naganeko.github.io/spine-gif/)
+
 You can use JsonRollback.jar from Spine to downgrade 3.8 to 3.7
+
 Some files don't convert correctly and must be fixed by hand, such files are put inside folders renamed to describe their states
 | Suffix  | Meaning |
 | ------------- | ------------- |
