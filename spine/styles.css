@@ -15,7 +15,13 @@ body
     -ms-user-select: none;
     user-select: none;
 }
-
+.FPS, .log{
+  font-size: 3vh;
+  position: fixed;
+  color: white;
+  right: 0px;
+  padding: 5px;
+}
 .main
 {
   position: relative;
