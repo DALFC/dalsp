@@ -58,7 +58,7 @@ function screenshot()
 {
   let cv = document.getElementsByTagName("canvas")[0];
   let imgSave = window.open();
-  imgSave.document.body.style.backgroundColor = "#3A4655";
+  imgSave.document.body.style.backgroundColor = "#7F7F7F";
   imgSave.document.body.style.margin = "0px";
   imgSave.document.body.innerHTML = '<img src="' + cv.toDataURL("png") + '">';
 }
