@@ -4,9 +4,16 @@ Host the site dalfc.github.io/dalsp
 # Spine
 A [viewer](https://dalfc.github.io/dalsp/spine) for the game's Spine models, made from the [edited spine-libgdx runtimes](https://github.com/DALFC/spine-runtimes).
 
+You can pass the bundle's name to the page to have the model loaded on init
+`https://dalfc.github.io/dalsp/spine/?file=weapon/angel_1127011` will load `weapon/angel_1127011` model (Lucifugus)
+
+On initialization the application checks for the query parameter `file`, if unspecified/null it will check for user's last viewed model (LocalStorage), else it will use the default model specified inside `assets/default.nocache.txt`
+
 Note: All 4 Zadkiel models had to be edited to remove the black matte, because blend modes don't work great with transparent background. You can still find the original sprite in their folders.
 
 Sorry for the bad UI and UX :<. Probably doesn't work on mobile.
+
+
 # 3.8
 The game's spine files (from `hero` and `weapon` folder) converted from 2.1.27 to 3.8 thanks to [spine-gif](https://naganeko.github.io/spine-gif/)
 

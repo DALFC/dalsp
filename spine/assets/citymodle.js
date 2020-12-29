@@ -37,6 +37,7 @@ var citymodleList = {
     "Kurumi (? )": "citymodle/city_10420",
     "Kurumi (White Wedding Dress)": "citymodle/city_10421",
     "Kurumi (Black Wedding Dress)": "citymodle/city_10423",
+    "Kurumi (Date A Bullet)": "citymodle/city_10425",
     "Kotori (Astral Dress)": "citymodle/city_10501",
     "Kotori (Casual Clothes)": "citymodle/city_10504",
     "Kotori (Commander)": "citymodle/city_10505",
