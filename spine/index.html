@@ -27,6 +27,7 @@
             	}
             	function updateTime(time)
             	{
+            	  time = time || 0; //convert time from any "falsey" value to 0.
             	  document.querySelector('progress[id="time"]').value = time * 100;
             	}
             </script>

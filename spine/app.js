@@ -109,6 +109,7 @@ function setSkin()
 }
 function setAnimation()
 {
+  DALFC.skeleton.setToSetupPose();
   DALFC.animation.setAnimation(document.getElementById("animation").value);
   //console.log(document.getElementById("animation").value);
 }
