@@ -58,4 +58,6 @@ var heroList = {
     "White Queen": "hero/paintshow_12701",
     "Tsuan": "hero/paintshow_12801",
     "Ais Wallenstein": "hero/paintshow_13101",
+    "Sonogami Rio": "hero/paintshow_13201",
+    "Sonogami Rinne": "hero/paintshow_13301"
 };

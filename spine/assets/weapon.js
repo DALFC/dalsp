@@ -45,4 +45,6 @@ var weaponList = {
     "Lucifugus": "weapon/angel_1127011",
     "Lailaps": "weapon/angel_1128011",
     "Ais's Weapon": "weapon/angel_1131011",
+    "Eden (Rio)": "weapon/angel_1132011",
+    "Eden (Rinne)": "weapon/angel_1133011"
 };
