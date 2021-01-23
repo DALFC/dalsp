@@ -346,6 +346,7 @@ $(function(){
 					fileurl = "https://raw.githubusercontent.com/DALFC/datealivesp/master/" + fileurl;
 					if (name.endsWith(".skel")) fileurl = "https://dalfc.github.io/spine/?url=" + fileurl;
 					else if (name.endsWith(".json") && name.indexOf("bust") === -1) fileurl = "https://dalfc.github.io/spine/?url=" + fileurl;
+					else if (name.endsWith(".mp4")) fileurl = "https://dalfc.github.io/dalsp/viewer/video?url=" + fileurl.replace("master", "master/dal_video");
 					var file = $('<li class="files"><a href="'+ fileurl +'" title="'+ f.path +'" class="files">'+icon+'<span class="name">'+ name +'</span><span class="details">'+fileMD5+'</span></a></li>');
 					file.appendTo(fileList);
 				});
