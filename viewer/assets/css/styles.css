@@ -57,6 +57,31 @@ body {
 
 
 /*-------------------------
+	View All
+-------------------------*/
+
+
+.filemanager .viewall {
+	right: 0;
+	position: absolute;
+	padding-right: 30px;
+	color: #ffffff;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 35px;
+}
+
+.filemanager .viewall a:link, .breadcrumbs a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.filemanager .viewall a:hover {
+	text-decoration: underline;
+}
+
+
+/*-------------------------
 	Breadcrumps
 -------------------------*/
 
