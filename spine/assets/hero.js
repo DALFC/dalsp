@@ -59,5 +59,6 @@ var heroList = {
     "Tsuan": "hero/paintshow_12801",
     "Ais Wallenstein": "hero/paintshow_13101",
     "Sonogami Rio": "hero/paintshow_13201",
-    "Sonogami Rinne": "hero/paintshow_13301"
+    "Sonogami Rinne": "hero/paintshow_13301",
+    "Takamiya Mio": "hero/paintshow_14201"
 };
