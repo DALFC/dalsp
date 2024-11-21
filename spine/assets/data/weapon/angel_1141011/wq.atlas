@@ -1,0 +1,61 @@
+
+wq.png
+size: 1878,1990
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 30
+  size: 643, 778
+  orig: 643, 778
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 1078, 1511
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 1078, 1526
+  size: 798, 462
+  orig: 798, 462
+  offset: 0, 0
+  index: -1
+ggg2
+  rotate: false
+  xy: 647, 720
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+xingxinglizi
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: false
+  xy: 2, 810
+  size: 1074, 1178
+  orig: 1074, 1178
+  offset: 0, 0
+  index: -1
+
+wq2.png
+size: 992,1090
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx2
+  rotate: false
+  xy: 2, 2
+  size: 988, 1086
+  orig: 988, 1086
+  offset: 0, 0
+  index: -1

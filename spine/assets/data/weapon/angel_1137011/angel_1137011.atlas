@@ -1,0 +1,145 @@
+
+angel_1137011.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao
+  rotate: false
+  xy: 378, 136
+  size: 288, 276
+  orig: 288, 276
+  offset: 0, 0
+  index: -1
+dao1
+  rotate: false
+  xy: 2, 44
+  size: 374, 368
+  orig: 374, 368
+  offset: 0, 0
+  index: -1
+dao11
+  rotate: false
+  xy: 668, 136
+  size: 288, 276
+  orig: 288, 276
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: true
+  xy: 2, 29
+  size: 13, 96
+  orig: 13, 96
+  offset: 0, 0
+  index: -1
+dp1
+  rotate: false
+  xy: 893, 414
+  size: 889, 809
+  orig: 889, 809
+  offset: 0, 0
+  index: -1
+dp2
+  rotate: false
+  xy: 2, 1225
+  size: 889, 809
+  orig: 889, 809
+  offset: 0, 0
+  index: -1
+dp3
+  rotate: false
+  xy: 958, 196
+  size: 203, 216
+  orig: 203, 216
+  offset: 0, 0
+  index: -1
+dp5
+  rotate: false
+  xy: 1784, 1747
+  size: 228, 287
+  orig: 228, 287
+  offset: 0, 0
+  index: -1
+dp6
+  rotate: false
+  xy: 2, 414
+  size: 889, 809
+  orig: 889, 809
+  offset: 0, 0
+  index: -1
+dp7
+  rotate: false
+  xy: 893, 1225
+  size: 889, 809
+  orig: 889, 809
+  offset: 0, 0
+  index: -1
+fxq3qq
+  rotate: false
+  xy: 958, 154
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2014, 2014
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+guangdian11
+  rotate: false
+  xy: 1784, 1625
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 1784, 1608
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: false
+  xy: 378, 96
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+shanguan
+  rotate: false
+  xy: 1163, 313
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+
+angel_11370112.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dp1fg
+  rotate: false
+  xy: 2, 813
+  size: 889, 809
+  orig: 889, 809
+  offset: 0, 0
+  index: -1
+dp4
+  rotate: false
+  xy: 893, 1033
+  size: 570, 589
+  orig: 570, 589
+  offset: 0, 0
+  index: -1
+dpfg
+  rotate: false
+  xy: 2, 2
+  size: 889, 809
+  orig: 889, 809
+  offset: 0, 0
+  index: -1

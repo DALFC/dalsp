@@ -1,0 +1,4 @@
+t:data/hero/paintshow_14101/artmxy.atlas:data/hero/paintshow_14101/artmxy.atlas:6208:application/unknown:1
+i:data/hero/paintshow_14101/artmxy.png:data/hero/paintshow_14101/artmxy.png:1545093:image/png:1
+b:data/hero/paintshow_14101/artmxy.skel:data/hero/paintshow_14101/artmxy.skel:226832:application/unknown:1
+i:data/hero/paintshow_14101/artmxy2.png:data/hero/paintshow_14101/artmxy2.png:543052:image/png:1

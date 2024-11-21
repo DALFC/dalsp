@@ -1,0 +1,4 @@
+t:data/weapon/angel_1103131/angel_1103131.atlas:data/weapon/angel_1103131/angel_1103131.atlas:5299:application/unknown:1
+i:data/weapon/angel_1103131/angel_1103131.png:data/weapon/angel_1103131/angel_1103131.png:285182:image/png:1
+b:data/weapon/angel_1103131/angel_1103131.skel:data/weapon/angel_1103131/angel_1103131.skel:129196:application/unknown:1
+i:data/weapon/angel_1103131/angel_11031312.png:data/weapon/angel_1103131/angel_11031312.png:381829:image/png:1

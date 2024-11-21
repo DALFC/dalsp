@@ -1,0 +1,4 @@
+t:data/hero/paintshow_11215/paintshow_11215.atlas:data/hero/paintshow_11215/paintshow_11215.atlas:7123:application/unknown:1
+i:data/hero/paintshow_11215/paintshow_11215.png:data/hero/paintshow_11215/paintshow_11215.png:431371:image/png:1
+b:data/hero/paintshow_11215/paintshow_11215.skel:data/hero/paintshow_11215/paintshow_11215.skel:235481:application/unknown:1
+i:data/hero/paintshow_11215/paintshow_112152.png:data/hero/paintshow_11215/paintshow_112152.png:546777:image/png:1

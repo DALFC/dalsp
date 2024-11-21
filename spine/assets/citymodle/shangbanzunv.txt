@@ -1,3 +1,3 @@
-t:data/citymodle/shangbanzunv/shangbanzunv.atlas:data/citymodle/shangbanzunv/shangbanzunv-880874e4a5048fa32a8c219a331f2af6.atlas:14696:application/unknown:1
-t:data/citymodle/shangbanzunv/shangbanzunv.json:data/citymodle/shangbanzunv/shangbanzunv-850b3941773d5284df0240c11069921f.json:420719:application/unknown:1
-i:data/citymodle/shangbanzunv/shangbanzunv.png:data/citymodle/shangbanzunv/shangbanzunv-e4d594f75491feb24eb253b56bab3d5b.png:580349:image/png:1
+t:data/citymodle/shangbanzunv/shangbanzunv.atlas:data/citymodle/shangbanzunv/shangbanzunv.atlas:14696:application/unknown:1
+t:data/citymodle/shangbanzunv/shangbanzunv.json:data/citymodle/shangbanzunv/shangbanzunv.json:420719:application/unknown:1
+i:data/citymodle/shangbanzunv/shangbanzunv.png:data/citymodle/shangbanzunv/shangbanzunv.png:580349:image/png:1

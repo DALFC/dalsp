@@ -1,0 +1,3 @@
+t:data/citymodle/city_10515/city_10515.atlas:data/citymodle/city_10515/city_10515.atlas:15817:application/unknown:1
+t:data/citymodle/city_10515/city_10515.json:data/citymodle/city_10515/city_10515.json:1414883:application/unknown:1
+i:data/citymodle/city_10515/city_10515.png:data/citymodle/city_10515/city_10515.png:524350:image/png:1

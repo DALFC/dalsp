@@ -1,3 +1,3 @@
-t:data/citymodle/nianshou-xi/fight_26604xiyuehui.atlas:data/citymodle/nianshou-xi/fight_26604xiyuehui-766e804640ec99826404b1ac54dc5e93.atlas:4102:application/unknown:1
-t:data/citymodle/nianshou-xi/fight_26604xiyuehui.json:data/citymodle/nianshou-xi/fight_26604xiyuehui-5d5c24922620c875a4bad733a66a581e.json:547504:application/unknown:1
-i:data/citymodle/nianshou-xi/fight_26604xiyuehui.png:data/citymodle/nianshou-xi/fight_26604xiyuehui-2fb7462401022ffcf343d28315eb03ac.png:123837:image/png:1
+t:data/citymodle/nianshou-xi/fight_26604xiyuehui.atlas:data/citymodle/nianshou-xi/fight_26604xiyuehui.atlas:4102:application/unknown:1
+t:data/citymodle/nianshou-xi/fight_26604xiyuehui.json:data/citymodle/nianshou-xi/fight_26604xiyuehui.json:547504:application/unknown:1
+i:data/citymodle/nianshou-xi/fight_26604xiyuehui.png:data/citymodle/nianshou-xi/fight_26604xiyuehui.png:123837:image/png:1

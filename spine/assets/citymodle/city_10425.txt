@@ -1,3 +1,3 @@
-t:data/citymodle/city_10425/city_10425.atlas:data/citymodle/city_10425/city_10425-d16f8144f52f0bb99f1695aa289ce1ff.atlas:18827:application/unknown:1
-t:data/citymodle/city_10425/city_10425.json:data/citymodle/city_10425/city_10425-75c71607fc25fec9eb7baaf0f0a1b48e.json:2986984:application/unknown:1
-i:data/citymodle/city_10425/city_10425.png:data/citymodle/city_10425/city_10425-4b2c6747e22a6d645cf456bde87ade71.png:569070:image/png:1
+t:data/citymodle/city_10425/city_10425.atlas:data/citymodle/city_10425/city_10425.atlas:18827:application/unknown:1
+t:data/citymodle/city_10425/city_10425.json:data/citymodle/city_10425/city_10425.json:2986984:application/unknown:1
+i:data/citymodle/city_10425/city_10425.png:data/citymodle/city_10425/city_10425.png:569070:image/png:1

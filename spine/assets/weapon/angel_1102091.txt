@@ -1,3 +1,3 @@
-t:data/weapon/angel_1102091/angel_10209.atlas:data/weapon/angel_1102091/angel_10209-980bbe574e7a088b1ecc9a943902a12c.atlas:1433:application/unknown:1
-i:data/weapon/angel_1102091/angel_10209.png:data/weapon/angel_1102091/angel_10209-51989699bae6304f5ba95c1ed611ec1c.png:249036:image/png:1
-b:data/weapon/angel_1102091/angel_10209.skel:data/weapon/angel_1102091/angel_10209-cdd5e3af833bae2deca9e4f0e2e144c1.skel:56985:application/unknown:1
+t:data/weapon/angel_1102091/angel_10209.atlas:data/weapon/angel_1102091/angel_10209.atlas:1433:application/unknown:1
+i:data/weapon/angel_1102091/angel_10209.png:data/weapon/angel_1102091/angel_10209.png:249036:image/png:1
+b:data/weapon/angel_1102091/angel_10209.skel:data/weapon/angel_1102091/angel_10209.skel:56985:application/unknown:1

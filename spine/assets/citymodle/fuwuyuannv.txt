@@ -1,3 +1,3 @@
-t:data/citymodle/fuwuyuannv/fuwuyuannv.atlas:data/citymodle/fuwuyuannv/fuwuyuannv-3b71032f73635f4bdbae61185a6181bc.atlas:14583:application/unknown:1
-t:data/citymodle/fuwuyuannv/fuwuyuannv.json:data/citymodle/fuwuyuannv/fuwuyuannv-872f0c77d26f107ccd3c2ac186df9f86.json:411605:application/unknown:1
-i:data/citymodle/fuwuyuannv/fuwuyuannv.png:data/citymodle/fuwuyuannv/fuwuyuannv-552c79a3e10cc87dba2a111dc450a49d.png:590656:image/png:1
+t:data/citymodle/fuwuyuannv/fuwuyuannv.atlas:data/citymodle/fuwuyuannv/fuwuyuannv.atlas:14583:application/unknown:1
+t:data/citymodle/fuwuyuannv/fuwuyuannv.json:data/citymodle/fuwuyuannv/fuwuyuannv.json:411605:application/unknown:1
+i:data/citymodle/fuwuyuannv/fuwuyuannv.png:data/citymodle/fuwuyuannv/fuwuyuannv.png:590656:image/png:1

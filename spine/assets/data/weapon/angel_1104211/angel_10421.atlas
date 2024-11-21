@@ -1,0 +1,579 @@
+
+angel_10421.png
+size: 2047,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2cihilun
+  rotate: false
+  xy: 1114, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+3cihilun
+  rotate: false
+  xy: 1206, 4
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+4cihilun
+  rotate: false
+  xy: 1296, 16
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1432, 98
+  size: 327, 327
+  orig: 327, 327
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 722, 31
+  size: 390, 394
+  orig: 390, 394
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 1970, 153
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+ggg4
+  rotate: true
+  xy: 1970, 49
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+hongquan
+  rotate: false
+  xy: 1761, 2
+  size: 207, 210
+  orig: 207, 210
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 1970, 93
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 1561, 56
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: false
+  xy: 1970, 6
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+lun3di
+  rotate: false
+  xy: 2010, 12
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+lun3you
+  rotate: true
+  xy: 722, 2
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+lun3zuo
+  rotate: true
+  xy: 761, 2
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+s8
+  rotate: false
+  xy: 2, 20
+  size: 718, 2026
+  orig: 718, 2026
+  offset: 0, 0
+  index: -1
+sfx15
+  rotate: false
+  xy: 722, 427
+  size: 1315, 1619
+  orig: 1315, 1619
+  offset: 0, 0
+  index: -1
+tiao1
+  rotate: false
+  xy: 1374, 18
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: false
+  xy: 799, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+zhongjian
+  rotate: false
+  xy: 1114, 94
+  size: 316, 331
+  orig: 316, 331
+  offset: 0, 0
+  index: -1
+zidanlun
+  rotate: false
+  xy: 1468, 5
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+zuolun
+  rotate: true
+  xy: 1761, 214
+  size: 211, 264
+  orig: 211, 264
+  offset: 0, 0
+  index: -1
+
+angel_104212.png
+size: 1993,2032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshifx1
+  rotate: true
+  xy: 922, 4
+  size: 126, 138
+  orig: 126, 138
+  offset: 0, 0
+  index: -1
+baoshifx2
+  rotate: true
+  xy: 1062, 4
+  size: 126, 138
+  orig: 126, 138
+  offset: 0, 0
+  index: -1
+fxq3qq
+  rotate: true
+  xy: 1202, 32
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 792, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 792, 132
+  size: 1199, 1898
+  orig: 1199, 1898
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 2, 39
+  size: 788, 1991
+  orig: 788, 1991
+  offset: 0, 0
+  index: -1
+
+angel_104213.png
+size: 2043,2023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1cihilun
+  rotate: false
+  xy: 1662, 624
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1684, 322
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1684, 20
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+baiquan
+  rotate: false
+  xy: 1232, 630
+  size: 248, 250
+  orig: 248, 250
+  offset: 0, 0
+  index: -1
+baoshifx
+  rotate: false
+  xy: 701, 599
+  size: 529, 608
+  orig: 529, 608
+  offset: 0, 0
+  index: -1
+bo/dibo_00
+  rotate: false
+  xy: 1152, 64
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 1482, 1007
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+heibian
+  rotate: false
+  xy: 1684, 882
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+hongdi
+  rotate: true
+  xy: 1482, 611
+  size: 192, 178
+  orig: 192, 178
+  offset: 0, 0
+  index: -1
+hongxianbian
+  rotate: false
+  xy: 1482, 805
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+quanFX
+  rotate: true
+  xy: 1843, 731
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 701, 1209
+  size: 812, 1340
+  orig: 812, 1340
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 701, 2
+  size: 449, 595
+  orig: 449, 595
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 2, 47
+  size: 697, 1974
+  orig: 697, 1974
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 1232, 995
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+
+angel_104214.png
+size: 2011,1797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo/dibo_01
+  rotate: false
+  xy: 1479, 1262
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_02
+  rotate: false
+  xy: 1479, 727
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_03
+  rotate: false
+  xy: 1479, 192
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 2, 2
+  size: 1475, 1793
+  orig: 1475, 1793
+  offset: 0, 0
+  index: -1
+
+angel_104215.png
+size: 1729,1760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s2
+  rotate: false
+  xy: 2, 2
+  size: 1725, 1756
+  orig: 1725, 1756
+  offset: 0, 0
+  index: -1
+
+angel_104216.png
+size: 1598,1607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo/dibo_04
+  rotate: false
+  xy: 2, 1072
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_05
+  rotate: false
+  xy: 2, 537
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_06
+  rotate: false
+  xy: 534, 1072
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_07
+  rotate: false
+  xy: 2, 2
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_08
+  rotate: false
+  xy: 534, 537
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_09
+  rotate: false
+  xy: 1066, 1072
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_10
+  rotate: false
+  xy: 534, 2
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_11
+  rotate: false
+  xy: 1066, 537
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_12
+  rotate: false
+  xy: 1066, 2
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+
+angel_104217.png
+size: 1598,1607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo/dibo_13
+  rotate: false
+  xy: 2, 1072
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_14
+  rotate: false
+  xy: 2, 537
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_15
+  rotate: false
+  xy: 534, 1072
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_16
+  rotate: false
+  xy: 2, 2
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_17
+  rotate: false
+  xy: 534, 537
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_18
+  rotate: false
+  xy: 1066, 1072
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_19
+  rotate: false
+  xy: 534, 2
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_20
+  rotate: false
+  xy: 1066, 537
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_21
+  rotate: false
+  xy: 1066, 2
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+
+angel_104218.png
+size: 1598,1607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo/dibo_22
+  rotate: false
+  xy: 2, 1072
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_23
+  rotate: false
+  xy: 2, 537
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_24
+  rotate: false
+  xy: 534, 1072
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_25
+  rotate: false
+  xy: 2, 2
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_26
+  rotate: false
+  xy: 534, 537
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_27
+  rotate: false
+  xy: 1066, 1072
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_28
+  rotate: false
+  xy: 534, 2
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+bo/dibo_29
+  rotate: false
+  xy: 1066, 537
+  size: 530, 533
+  orig: 530, 533
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 1066, 23
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+angel_104219.png
+size: 487,487
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 2
+  size: 483, 483
+  orig: 483, 483
+  offset: 0, 0
+  index: -1

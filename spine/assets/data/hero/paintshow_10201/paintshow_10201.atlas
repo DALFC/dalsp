@@ -1,0 +1,201 @@
+
+paintshow_10201.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 373, 12
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 784, 247
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 795, 9
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 899, 9
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+fubu
+  rotate: false
+  xy: 841, 772
+  size: 179, 250
+  orig: 179, 250
+  offset: 0, 0
+  index: -1
+hounaoshao
+  rotate: true
+  xy: 579, 188
+  size: 218, 203
+  orig: 218, 203
+  offset: 0, 0
+  index: -1
+qianfa
+  rotate: false
+  xy: 841, 601
+  size: 162, 169
+  orig: 162, 169
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 2, 408
+  size: 837, 614
+  orig: 837, 614
+  offset: 0, 0
+  index: -1
+shanshen
+  rotate: true
+  xy: 841, 439
+  size: 160, 159
+  orig: 160, 159
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 234, 5
+  size: 109, 137
+  orig: 109, 137
+  offset: 0, 0
+  index: -1
+toushi1
+  rotate: true
+  xy: 989, 413
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: true
+  xy: 1002, 578
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+youchibang
+  rotate: true
+  xy: 2, 116
+  size: 290, 443
+  orig: 290, 443
+  offset: 0, 0
+  index: -1
+youjianjia
+  rotate: true
+  xy: 784, 351
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 447, 50
+  size: 130, 356
+  orig: 130, 356
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 579, 94
+  size: 92, 239
+  orig: 92, 239
+  offset: 0, 0
+  index: -1
+youtuijinqi
+  rotate: true
+  xy: 2, 2
+  size: 112, 230
+  orig: 112, 230
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 841, 61
+  size: 146, 376
+  orig: 146, 376
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 579, 2
+  size: 90, 214
+  orig: 90, 214
+  offset: 0, 0
+  index: -1
+
+paintshow_102012.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youdabi
+  rotate: false
+  xy: 2, 2
+  size: 80, 133
+  orig: 80, 133
+  offset: 0, 0
+  index: -1
+youerfa
+  rotate: false
+  xy: 449, 626
+  size: 81, 161
+  orig: 81, 161
+  offset: 0, 0
+  index: -1
+youshoubi2
+  rotate: false
+  xy: 2, 137
+  size: 118, 198
+  orig: 118, 198
+  offset: 0, 0
+  index: -1
+zuochibang
+  rotate: false
+  xy: 2, 553
+  size: 445, 462
+  orig: 445, 462
+  offset: 0, 0
+  index: -1
+zuoerfa
+  rotate: false
+  xy: 544, 869
+  size: 90, 146
+  orig: 90, 146
+  offset: 0, 0
+  index: -1
+zuojian
+  rotate: false
+  xy: 140, 390
+  size: 104, 161
+  orig: 104, 161
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 449, 789
+  size: 93, 226
+  orig: 93, 226
+  offset: 0, 0
+  index: -1
+zuotuijinqi
+  rotate: false
+  xy: 2, 337
+  size: 136, 214
+  orig: 136, 214
+  offset: 0, 0
+  index: -1

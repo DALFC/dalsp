@@ -1,0 +1,264 @@
+
+paintshow_10701.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bikou
+  rotate: false
+  xy: 837, 353
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+biyan1
+  rotate: false
+  xy: 275, 20
+  size: 113, 52
+  orig: 113, 52
+  offset: 0, 0
+  index: -1
+biyan3
+  rotate: false
+  xy: 441, 400
+  size: 113, 36
+  orig: 113, 36
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 837, 129
+  size: 165, 192
+  orig: 165, 192
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 629, 682
+  size: 297, 340
+  orig: 297, 340
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 2, 16
+  size: 142, 214
+  orig: 142, 214
+  offset: 0, 0
+  index: -1
+l_hand2
+  rotate: true
+  xy: 835, 2
+  size: 125, 174
+  orig: 125, 174
+  offset: 0, 0
+  index: -1
+l_lowarm
+  rotate: true
+  xy: 928, 698
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1
+l_suolian2
+  rotate: true
+  xy: 888, 323
+  size: 171, 134
+  orig: 171, 134
+  offset: 0, 0
+  index: -1
+l_thigh
+  rotate: false
+  xy: 629, 386
+  size: 257, 294
+  orig: 257, 294
+  offset: 0, 0
+  index: -1
+l_uparm
+  rotate: true
+  xy: 888, 496
+  size: 184, 118
+  orig: 184, 118
+  offset: 0, 0
+  index: -1
+meimao_L
+  rotate: false
+  xy: 837, 330
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+meimao_R
+  rotate: true
+  xy: 868, 347
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 440, 23
+  size: 197, 195
+  orig: 197, 195
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 146, 2
+  size: 70, 127
+  orig: 70, 127
+  offset: 0, 0
+  index: -1
+r_thigh
+  rotate: true
+  xy: 441, 220
+  size: 164, 394
+  orig: 164, 394
+  offset: 0, 0
+  index: -1
+r_uparm
+  rotate: false
+  xy: 928, 824
+  size: 90, 198
+  orig: 90, 198
+  offset: 0, 0
+  index: -1
+spine1
+  rotate: false
+  xy: 2, 232
+  size: 213, 398
+  orig: 213, 398
+  offset: 0, 0
+  index: -1
+spine2
+  rotate: true
+  xy: 639, 15
+  size: 203, 194
+  orig: 203, 194
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 217, 329
+  size: 301, 222
+  orig: 301, 222
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 217, 74
+  size: 221, 253
+  orig: 221, 253
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 441, 438
+  size: 185, 192
+  orig: 185, 192
+  offset: 0, 0
+  index: -1
+waitao3
+  rotate: false
+  xy: 2, 632
+  size: 625, 390
+  orig: 625, 390
+  offset: 0, 0
+  index: -1
+zhangkou
+  rotate: true
+  xy: 556, 407
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+zhengchang
+  rotate: true
+  xy: 146, 116
+  size: 114, 65
+  orig: 114, 65
+  offset: 0, 0
+  index: -1
+
+paintshow_107012.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan2
+  rotate: false
+  xy: 151, 680
+  size: 113, 52
+  orig: 113, 52
+  offset: 0, 0
+  index: -1
+l_hand22
+  rotate: true
+  xy: 2, 82
+  size: 137, 128
+  orig: 137, 128
+  offset: 0, 0
+  index: -1
+l_suolian3
+  rotate: true
+  xy: 2, 221
+  size: 164, 136
+  orig: 164, 136
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: false
+  xy: 2, 676
+  size: 147, 342
+  orig: 147, 342
+  offset: 0, 0
+  index: -1
+r_lowarm
+  rotate: false
+  xy: 269, 822
+  size: 90, 196
+  orig: 90, 196
+  offset: 0, 0
+  index: -1
+suolian1
+  rotate: false
+  xy: 548, 923
+  size: 145, 95
+  orig: 145, 95
+  offset: 0, 0
+  index: -1
+taitao2
+  rotate: false
+  xy: 2, 2
+  size: 102, 78
+  orig: 102, 78
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 2, 387
+  size: 145, 287
+  orig: 145, 287
+  offset: 0, 0
+  index: -1
+waitao1
+  rotate: false
+  xy: 361, 830
+  size: 142, 110
+  orig: 142, 110
+  offset: 0, 0
+  index: -1
+waitao4
+  rotate: false
+  xy: 151, 734
+  size: 116, 284
+  orig: 116, 284
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 361, 942
+  size: 185, 76
+  orig: 185, 76
+  offset: 0, 0
+  index: -1

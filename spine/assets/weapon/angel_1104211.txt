@@ -1,0 +1,11 @@
+t:data/weapon/angel_1104211/angel_10421.atlas:data/weapon/angel_1104211/angel_10421.atlas:8766:application/unknown:1
+i:data/weapon/angel_1104211/angel_10421.png:data/weapon/angel_1104211/angel_10421.png:607001:image/png:1
+b:data/weapon/angel_1104211/angel_10421.skel:data/weapon/angel_1104211/angel_10421.skel:73770:application/unknown:1
+i:data/weapon/angel_1104211/angel_104212.png:data/weapon/angel_1104211/angel_104212.png:542186:image/png:1
+i:data/weapon/angel_1104211/angel_104213.png:data/weapon/angel_1104211/angel_104213.png:1304086:image/png:1
+i:data/weapon/angel_1104211/angel_104214.png:data/weapon/angel_1104211/angel_104214.png:1040899:image/png:1
+i:data/weapon/angel_1104211/angel_104215.png:data/weapon/angel_1104211/angel_104215.png:1049628:image/png:1
+i:data/weapon/angel_1104211/angel_104216.png:data/weapon/angel_1104211/angel_104216.png:2251919:image/png:1
+i:data/weapon/angel_1104211/angel_104217.png:data/weapon/angel_1104211/angel_104217.png:2230525:image/png:1
+i:data/weapon/angel_1104211/angel_104218.png:data/weapon/angel_1104211/angel_104218.png:1656504:image/png:1
+i:data/weapon/angel_1104211/angel_104219.png:data/weapon/angel_1104211/angel_104219.png:87703:image/png:1

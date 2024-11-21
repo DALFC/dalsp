@@ -1,0 +1,432 @@
+
+angel_1138011.png
+size: 2044,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshifx
+  rotate: false
+  xy: 1054, 53
+  size: 212, 243
+  orig: 212, 243
+  offset: 0, 0
+  index: -1
+baoshifx1
+  rotate: false
+  xy: 414, 436
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+baoshifx2
+  rotate: false
+  xy: 466, 436
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+bfx
+  rotate: false
+  xy: 518, 4
+  size: 234, 487
+  orig: 234, 487
+  offset: 0, 0
+  index: -1
+bfx11
+  rotate: false
+  xy: 1491, 1344
+  size: 154, 373
+  orig: 154, 373
+  offset: 0, 0
+  index: -1
+bfx12
+  rotate: true
+  xy: 572, 1258
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+bi
+  rotate: false
+  xy: 2, 2
+  size: 178, 432
+  orig: 178, 432
+  offset: 0, 0
+  index: -1
+bifx
+  rotate: true
+  xy: 319, 436
+  size: 55, 93
+  orig: 55, 93
+  offset: 0, 0
+  index: -1
+bo/dibo_00
+  rotate: true
+  xy: 1804, 298
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_01
+  rotate: true
+  xy: 1268, 409
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_02
+  rotate: false
+  xy: 1054, 408
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_03
+  rotate: true
+  xy: 1268, 195
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_04
+  rotate: false
+  xy: 1483, 83
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_05
+  rotate: false
+  xy: 1697, 83
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+fxq3qq
+  rotate: false
+  xy: 182, 6
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 223, 22
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 727, 1274
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+ggg2
+  rotate: false
+  xy: 754, 24
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+ggg4
+  rotate: false
+  xy: 291, 1234
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+quanFX
+  rotate: false
+  xy: 665, 1261
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 1493, 1719
+  size: 325, 536
+  orig: 325, 536
+  offset: 0, 0
+  index: -1
+s11
+  rotate: false
+  xy: 1164, 1508
+  size: 325, 536
+  orig: 325, 536
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 801, 623
+  size: 690, 702
+  orig: 690, 702
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 1804, 512
+  size: 180, 238
+  orig: 180, 238
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 572, 1327
+  size: 590, 717
+  orig: 590, 717
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 319, 493
+  size: 480, 759
+  orig: 480, 759
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 291, 1254
+  size: 279, 790
+  orig: 279, 790
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 2, 436
+  size: 315, 796
+  orig: 315, 796
+  offset: 0, 0
+  index: -1
+s8
+  rotate: false
+  xy: 2, 1234
+  size: 287, 810
+  orig: 287, 810
+  offset: 0, 0
+  index: -1
+sfx11
+  rotate: false
+  xy: 754, 114
+  size: 298, 377
+  orig: 298, 377
+  offset: 0, 0
+  index: -1
+sfx12
+  rotate: true
+  xy: 1493, 398
+  size: 294, 309
+  orig: 294, 309
+  offset: 0, 0
+  index: -1
+sfx13
+  rotate: false
+  xy: 1647, 1358
+  size: 279, 359
+  orig: 279, 359
+  offset: 0, 0
+  index: -1
+sfx14
+  rotate: false
+  xy: 182, 48
+  size: 312, 386
+  orig: 312, 386
+  offset: 0, 0
+  index: -1
+sfx15
+  rotate: false
+  xy: 1493, 694
+  size: 526, 648
+  orig: 526, 648
+  offset: 0, 0
+  index: -1
+ssss_00027
+  rotate: false
+  xy: 844, 32
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+
+angel_11380112.png
+size: 1072,1077
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo/dibo_06
+  rotate: false
+  xy: 2, 862
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_07
+  rotate: false
+  xy: 2, 647
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_08
+  rotate: false
+  xy: 216, 862
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_09
+  rotate: false
+  xy: 2, 432
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_10
+  rotate: false
+  xy: 216, 647
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_11
+  rotate: false
+  xy: 430, 862
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_12
+  rotate: false
+  xy: 2, 217
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_13
+  rotate: false
+  xy: 216, 432
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_14
+  rotate: false
+  xy: 430, 647
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_15
+  rotate: false
+  xy: 644, 862
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_16
+  rotate: false
+  xy: 2, 2
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_17
+  rotate: false
+  xy: 216, 217
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_18
+  rotate: false
+  xy: 430, 432
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_19
+  rotate: false
+  xy: 644, 647
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_20
+  rotate: false
+  xy: 858, 862
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_21
+  rotate: false
+  xy: 216, 2
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_22
+  rotate: false
+  xy: 430, 217
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_23
+  rotate: false
+  xy: 644, 432
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_24
+  rotate: false
+  xy: 858, 647
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_25
+  rotate: false
+  xy: 430, 2
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_26
+  rotate: false
+  xy: 644, 217
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_27
+  rotate: false
+  xy: 858, 432
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_28
+  rotate: false
+  xy: 644, 2
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+bo/dibo_29
+  rotate: false
+  xy: 858, 217
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 858, 10
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
